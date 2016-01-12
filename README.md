@@ -1,2 +1,2 @@
-# campusnet
-Campus Net - University Student Information &amp; Engagement Platform
+# CampusNet
+University Student Information &amp; Engagement Platform
